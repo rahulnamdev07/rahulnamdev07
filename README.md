@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rahul Namdev
 
-<!--
-**rahulnamdev07/rahulnamdev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Manager building AI agents, RAG systems, and LLM tools.
 
-Here are some ideas to get you started:
+## What I'm Exploring
+- AI Agents
+- MCP (Model Context Protocol)
+- Local LLMs with Ollama
+- RAG Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Agent with MCP
+- LLM Tool Calling Experiments
+- RAG Knowledge Assistant
+
+## Tech Stack
+Python | LLMs | Ollama | MCP | LangChain
+
+## Connect
+LinkedIn
