@@ -1,17 +1,17 @@
-##What I Work On
+## 🚀 WHAT I WORK ON
+- 🤖 **AI Agents** — Building prototypes for single-agent and multi-agent workflows, MCP-based tool calling, and agent architectures.
+- 🧰 **LLM Tool Integration** — Structured tool calling, external APIs, and workflow orchestration for LLM applications.
+- 🧠 **RAG Systems** — Retrieval pipelines for document intelligence, knowledge assistants, and AI copilots.
+- ⚙️ **AI Product Prototypes** — Converting AI ideas into working systems that demonstrate product concepts and architecture patterns.
+- 📊 **Decision Intelligence** — Applying AI to planning, forecasting, and operational decision support.
+- 🔬 **AI Experiments** — Prompt engineering, evaluation workflows, and testing LLM behaviors in real-world use cases.
 
-🤖 AI Agents: building prototypes around single-agent and multi-agent workflows, MCP-based tool calling, and practical agent architectures.
-🧰 LLM Tool Integration: experimenting with structured tool calling, external APIs, and agent workflows using frameworks around local and cloud LLMs.
-🧠 RAG Systems: building retrieval pipelines for document intelligence, knowledge assistants, and decision-support systems.
-⚙️ AI Product Prototypes: turning AI ideas into small working systems that demonstrate product concepts, workflows, and architecture patterns.
-📊 Decision Intelligence Systems: exploring how AI can support planning, forecasting, and operational decision-making.
-🔬 AI Experiments: testing prompts, evaluation strategies, and architecture patterns to understand how LLM systems behave in real-world applications.
+---
 
-##About Me
-
-🚀 AI Product Manager at Dell Technologies leading AI-driven planning platforms and decision intelligence systems for global product and supply chain operations.
-🧠 Led the development of COSMOS, an AI-powered assortment and planning platform that transformed fragmented Excel workflows into a unified AI-driven planning system across multiple product lines and global regions.
-🤖 Exploring AI agents, MCP-based tool architectures, and local LLM applications using tools like Ollama to prototype intelligent workflows.
-📈 Built explainability and risk visibility solutions for supply chain planning, helping surface large-scale demand–supply risks and decision insights for planners.
-📊 Former Data Scientist at Virtusa, building machine learning solutions for healthcare and financial services, including drug discovery analysis, cancer detection models, and credit risk prediction systems.
-🌱 Interested in the intersection of AI systems, product strategy, and real-world decision making, particularly around AI copilots, agent-based workflows, and intelligent enterprise platforms.
+## 👋 ABOUT ME
+- 🚀 **AI Product Manager at :contentReference[oaicite:1]{index=1}** leading AI-driven planning platforms and decision intelligence systems for global product operations.
+- 🧠 Led development of **COSMOS**, an AI-powered assortment and planning platform transforming fragmented Excel workflows into a unified AI-driven system across multiple product lines and regions.
+- 🤖 Exploring **AI agents, MCP-based architectures, and local LLM applications** using tools like **:contentReference[oaicite:2]{index=2}** to prototype intelligent workflows.
+- 📈 Built explainability solutions for supply chain planning, surfacing large-scale demand–supply risks and decision insights.
+- 📊 Former **Data Scientist at :contentReference[oaicite:3]{index=3}**, building ML solutions for healthcare and financial services including drug discovery analysis, cancer detection models, and credit risk prediction systems.
+- 🌱 Interested in the intersection of **AI systems, product strategy, and enterprise decision platforms**.
