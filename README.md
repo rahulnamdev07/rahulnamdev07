@@ -1,5 +1,4 @@
 # Rahul Namdev
-
 AI Product Manager building AI agents, RAG systems, and LLM tools.
 
 ## What I'm Exploring
@@ -17,4 +16,4 @@ AI Product Manager building AI agents, RAG systems, and LLM tools.
 Python | LLMs | Ollama | MCP | LangChain
 
 ## Connect
-LinkedIn
+https://www.linkedin.com/in/rahul-namdev-03270811a/
